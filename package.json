@@ -6,8 +6,8 @@
       "scripts": {
             "start": "node task3.js"
       },
-      "dependencies": {
-            "sha3": "^2.1.4",
-            "unzipper": "^0.10.14"
-      }
+      "engines": {
+            "node": ">=14.0.0"
+      },
+      "dependencies": {}
 }
