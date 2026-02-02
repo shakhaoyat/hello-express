@@ -1,6 +1,7 @@
 {
       "name": "task2-sha3",
       "version": "1.0.0",
+      "type": "module",
       "description": "SHA3-256 hash calculator for task 2",
       "main": "task2.js",
       "scripts": {

@@ -1,8 +1,8 @@
 {
-  "rewrites": [
-    {
-      "source": "/shakhaoyathossain_12_gmail_com",
-      "destination": "/api/shakhaoyathossain_12_gmail_com"
-    }
-  ]
+      "rewrites": [
+            {
+                  "source": "/shakhaoyathossain_12_gmail_com",
+                  "destination": "/api/shakhaoyathossain_12_gmail_com"
+            }
+      ]
 }

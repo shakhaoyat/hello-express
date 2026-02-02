@@ -1,0 +1,1 @@
+s = process.argv.slice(2), f = s[0] || '', r = ''; for (i = 0; i < f.length; i++)for (j = i + 1; j <= f.length; j++)c = f.slice(i, j), s.every(x => x.includes(c)) && c.length > r.length && (r = c); console.log(r)
