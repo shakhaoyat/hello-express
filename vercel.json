@@ -1,15 +1,8 @@
 {
-  "version": 2,
-  "builds": [
+  "rewrites": [
     {
-      "src": "api/**/*.js",
-      "use": "@vercel/node"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/shakhaoyathossain_12_gmail_com",
-      "dest": "/api/shakhaoyathossain_12_gmail_com.js"
+      "source": "/shakhaoyathossain_12_gmail_com",
+      "destination": "/api/shakhaoyathossain_12_gmail_com"
     }
   ]
 }
