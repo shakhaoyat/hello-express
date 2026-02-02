@@ -1,0 +1,6 @@
+node_modules/
+*.data
+task2.zip
+task2_files/
+task2_manual/
+.env

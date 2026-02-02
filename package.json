@@ -1,11 +1,10 @@
 {
-      "name": "task2-sha3",
+      "name": "hello-express",
       "version": "1.0.0",
-      "type": "module",
-      "description": "SHA3-256 hash calculator for task 2",
-      "main": "task2.js",
+      "description": "LCM calculator for task 3",
+      "main": "task3.js",
       "scripts": {
-            "start": "node task2.js"
+            "start": "node task3.js"
       },
       "dependencies": {
             "sha3": "^2.1.4",
